@@ -21,7 +21,7 @@
   </a>
 </p>
 
-TerminalChat is a console based instant messaging application made for hackers written in python3 &amp; php. Gives all Basic Messaging Functionality
+TerminalChat is a console based instant messaging application made for hackers written in python3 &amp; php. Gives all Basic Messaging Functionality with a Console UI
 
 ## Features
 - [x] OS Independent (Can Work On Any OS).
