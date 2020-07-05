@@ -47,8 +47,9 @@ TerminalChat is a console based instant messaging application made for hackers w
 3. Replace your Server URL in `TerminalChat.py`
 4. Create Database with any name & Import the given `chats.sql` file.
 5. Replace your correct Database credentials with the default one in the `Server_files/config.php`
-6. Run `TerminalChat.py` using python v3 : `python3 TerminalChat`
-7. Login to Default Chatroom Name & Invitation Code: 
+6. Install Python Module Using Pip : `python -m pip install requests`
+7. Run `TerminalChat.py` using python v3 : `python TerminalChat`
+8. Login to Default Chatroom Name & Invitation Code: 
 
 | Chatroom Name  | Invitation Code | MasterKey |
 | ----------  | --------- | ----------- |
