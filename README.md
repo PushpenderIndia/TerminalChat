@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Technowlogy-Pushpender/TerminalChat/blob/master/TerminalChat-logo.png" alt="TerminalChat Logo" width=100 height=100/>
+  <img src="https://github.com/PushpenderIndia/TerminalChat/blob/master/TerminalChat-logo.png" alt="TerminalChat Logo" width=100 height=100/>
 </p>
 
 <h1 align="center">TerminalChat</h1>
@@ -10,13 +10,13 @@
   <a href="https://www.php.net">
     <img src="https://img.shields.io/badge/PHP-7.2.30-blue.svg">
   </a>
-  <a href="https://github.com/Technowlogy-Pushpender/TerminalChat/blob/master/LICENSE">
+  <a href="https://github.com/PushpenderIndia/TerminalChat/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
-  <a href="https://github.com/Technowlogy-Pushpender/TerminalChat/releases">
+  <a href="https://github.com/PushpenderIndia/TerminalChat/releases">
     <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
-    <a href="https://github.com/Technowlogy-Pushpender/TerminalChat">
+    <a href="https://github.com/PushpenderIndia/TerminalChat">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
   </a>
 </p>
@@ -104,7 +104,6 @@ singhpushpender250@gmail.com
 ## Buy Me A Coffee
 
 * Support my Open Source projects by making Donation, It really motivates me to work on more projects
-* PayPal Address: https://paypal.me/anonyindia
-* PayPal Email: `singhpushpender250@gmail.com`
+* PayPal Email: `shrisatender@gmail.com` [**Please Don't Send Emails to This Address**]
 
 ## More Features Coming Soon...
